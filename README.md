@@ -1,3 +1,4 @@
+Members - Aditya Nair
 # uncle-joes-frontend
 The frontend will have a variety of pages to enhance the User experience. There will be a login page and a signup if new users want to come and become a member. Once a member is logged in it will have the following features:
 **An order page** - they will have the ability to place orders and utilize search filters to find desired items in an easier fashion
